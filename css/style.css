@@ -19,7 +19,7 @@ header {
     padding: 0 16px;
     padding-top: 24px;
 }
-/* 한국어버전 웹사이트 연결 */
+/* 영어버전 웹사이트 연결 */
 .ensite{
     max-width: 150px;
     height: 36px;
@@ -39,7 +39,7 @@ header {
     text-align: center;
     color: #fff;
     margin-bottom: 10px;
-}/* //한국어버전 웹사이트 연결 */
+}/* //영어버전 웹사이트 연결 */
 .menub {
     max-width: 600px;
     height: 60px;
