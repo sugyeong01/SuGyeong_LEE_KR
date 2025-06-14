@@ -598,8 +598,8 @@ header {
 
 .toolkit_i p {
     font-family: 'Satoshi';
-    font-size: 1.125rem;
-    line-height: 150%;
+    font-size: 1rem;
+    line-height: 160%;
     font-weight: 400;
     color: #e7e7e7;
     display: flex;
